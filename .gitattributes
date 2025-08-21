@@ -8,3 +8,4 @@
 *.out linguist-detectable=false
 
 *.g.dart linguist-generated=true
+*.py linguist-language=Python
